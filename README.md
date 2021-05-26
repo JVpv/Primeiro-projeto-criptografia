@@ -22,6 +22,8 @@ Como usar:
 
 ATUALIZAÇÕES FUTURAS:
 =====================
+- Melhoria na interface(?)
+- Criar e linkar um trello para organizar tudo melhor
 - Conserto de bugs que já estou ciente da existência (e só atrapalham se for o usuário propositalmente querendo crashar o programa)
 - Wizard para instalação
 - Capacidade de decifrar imagens
